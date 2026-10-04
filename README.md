@@ -1,7 +1,7 @@
 # Longitudinal Clinical and Biochemical Trajectory Analysis Following Everolimus-Based Escalation Therapy in Liver Allograft Rejection
 
 
-Data and limitations. 
+## Data and limitations. 
 
 The original data is private and is not shared. This is a small single-centre retrospective cohort (n = 22) with missing follow-up values. The analysis is exploratory and makes no causal claims.
 
